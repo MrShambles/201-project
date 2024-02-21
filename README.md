@@ -1,7 +1,7 @@
 # About Me Project
 
 1. [GitHub Repo](mrshambles.github.io/201-project/)
-2. [Deployed Site] (http://127.0.0.1:5500/index.html)
+2. [Deployed Site](http://127.0.0.1:5500/index.html)
 
 ## LightHouse Report
 

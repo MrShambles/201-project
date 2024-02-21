@@ -67,3 +67,17 @@ footer {
   }
 }
 
+h3 {
+  font-size: 2em;
+  text-decoration: underline;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 10px;
+
+}
+
+h4 {
+  font-size: 1.5em;
+  padding: 5px;
+
+
+}
