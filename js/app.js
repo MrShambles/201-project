@@ -89,7 +89,7 @@ if (!correctGuess) {
 }
 }
 function guessCar() {
-  let possibleVehicles = ["bike", "truck"];
+  let possibleVehicles = ["bike", "truck","motorcycle"];
   let attempts = 6;
 
   for (let i = 0; i < attempts; i++) {
