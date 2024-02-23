@@ -11,3 +11,6 @@
 
 ### Wednesday Lab
 ![LightHouse Test](./images/week%202%20lighthouse.PNG)
+
+### Friday Lab
+![Lighthouse Test](./lighthouseeeeeeeeee.PNG)
